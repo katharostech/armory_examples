@@ -1,0 +1,8 @@
+build
+build_*
+**/build
+**/build_*
+khafile.js
+**/khafile.js
+*.blend?
+Sources/Main.hx
